@@ -1,2 +1,2 @@
-# Advanced-JS-Code-for-Roller-Coster-Animations-on-Path
-Rollercoster
+# Advanced JS Animations
+Building roller coster using animation using JS, CSS & HTML
